@@ -1,0 +1,1 @@
+This repository was made to file ten questions of Project Euler website that i made as requested by my university Professor.
